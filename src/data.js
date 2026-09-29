@@ -1,7 +1,7 @@
 
 import Papa from 'papaparse';
 
-const DATA_URL = import.meta.env.VITE_DATA_URL || 'https://eu.kobotoolbox.org/api/v2/assets/aaYJotxgaw6j3TzANYkCnN/export-settings/esDwByc2Q5Xc2iiSnctpFBF/data.csv';
+const DATA_URL = import.meta.env.VITE_DATA_URL || 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQafWS5_N0LDnjEFJ1iozwYDNHfaQJHTUQOkbL4VI6SUo6SGXOb_tzuGoUWrNmdKhgWtlFaYJW5P_bU/pub?gid=0&single=true&output=csv';
 const REFRESH_MS = Number(import.meta.env.VITE_REFRESH_MS || 60000);
 
 const aliases = {
