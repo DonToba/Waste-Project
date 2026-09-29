@@ -5,10 +5,6 @@ Vercel-ready React + Vite dashboard for the Nervs waste data collection exercise
 ## Live data source
 The dashboard reads directly from the published KoboToolbox CSV:
 
-https://eu.kobotoolbox.org/api/v2/assets/aaYJotxgaw6j3TzANYkCnN/export-settings/esDwByc2Q5Xc2iiSnctpFBF/data.csv
-
-No sample Excel records are bundled or used as a fallback.
-
 ## Data fields displayed
 - Local Government
 - Waste Category
