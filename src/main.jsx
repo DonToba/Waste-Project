@@ -150,7 +150,7 @@ function App(){
       <div className="sidebar-foot">
         <b>Nervs</b><br/>
         Environmental data collection & intelligence.<br/><br/>
-        <span>POC • Lagos State waste survey</span>
+        <span>Lagos State waste survey</span>
       </div>
     </aside>
 
