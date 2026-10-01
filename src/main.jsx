@@ -229,7 +229,7 @@ function App(){
       </section>
       </> : <LeaderboardView leaderboard={leaderboard} duplicateRows={duplicateRows} errorRows={errorRows} outsideAOIRows={outsideAOIRows} />}
 
-      <div className="footer-note">Nervs • Waste Data Collection Proof of Concept • Auto-refresh: {Math.round(REFRESH_MS/1000)}s • Leaderboard uses the Name column</div>
+      <div className="footer-note">Nervs • Waste Data Collection</div>
     </main>
   </div>
 }
